@@ -45,7 +45,7 @@ ul.horizontal-list {
 	padding: 0;
 }
 ul.horizontal-list li {
-	margin: 0 5px; /* 각 항목 사이의 여백 조절 */
+	margin: 0 2px; /* 각 항목 사이의 여백 조절 */
   }
   
   
